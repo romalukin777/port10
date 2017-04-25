@@ -1,0 +1,17 @@
+#general
+{
+	margin-top: -20px;
+}
+.cntr, .cntr td, .cntr th
+{
+	text-align: center;
+}
+.ptr
+{
+	cursor: pointer;
+}
+.imgd
+{
+	max-width: 860px;
+	max-height: 860px;
+}
